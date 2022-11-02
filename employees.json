@@ -1,0 +1,36 @@
+{
+   "emp_details": [ 
+
+   {
+       "name":"rahul",
+       "dob":"05/07/1993",
+       "city":"azamgarh",
+       "state":"uttar pradesh"
+   },
+   {
+       "name":"jp",
+       "dob":"08/09/1669",
+       "city":"lko",
+       "state":"uk"
+   },
+   {
+       "name":"rakesh",
+       "dob":"10/05/1998",
+       "city":"mumbai",
+       "state":"ap"
+   },
+   {
+       "name":"ravi",
+       "dob":"08/09/1669",
+       "city":"lko",
+       "state":"ap"
+   },
+   {  
+       "name":"jk",
+       "dob":"10/05/1997",
+       "city":"azamgarh",
+       "state":"punjab"
+   }
+  ]
+}
+
